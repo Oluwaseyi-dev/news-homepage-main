@@ -29,7 +29,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: (https://github.com/Oluwaseyi-dev/news-homepage-main)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL:(https://oluwaseyi-dev.github.io/news-homepage-main/)
 
 ## My process
 
