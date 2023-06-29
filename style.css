@@ -298,6 +298,7 @@ footer {
 
     section .textr{
         display: block;
+        padding-top: 0.5rem;
     }
     section h2{
         font-size: 3rem;
@@ -348,3 +349,9 @@ footer {
     }
 }
 
+
+@media screen and (max-width: 360px){
+    body{
+        grid-template-rows: 100px 1000px 450px 500px;
+    }
+}
