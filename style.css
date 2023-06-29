@@ -12,6 +12,7 @@ body{
     margin-left: 10rem;
     margin-right: 10rem;
     margin-top: 3rem;
+    overflow-x: hidden;
 
     display: grid;
     grid-template-areas: 
@@ -350,8 +351,8 @@ footer {
 }
 
 
-@media screen and (max-width: 360px){
+@media screen and (max-width: 400px){
     body{
-        grid-template-rows: 100px 1000px 450px 500px;
+        grid-template-rows: 100px 980px 460px 500px;
     }
 }
